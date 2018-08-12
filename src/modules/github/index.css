@@ -1,0 +1,94 @@
+body {
+
+    margin: 0px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 100;
+}
+
+strong {
+    font-weight: 800;
+}
+
+#loading {
+
+    height: 100%;
+    width: 100%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+
+.loader {
+    border: 16px solid #f3f3f3; /* Light grey */
+    border-top: 16px solid #F8E71C; /* Blue */
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+#container {
+
+    background: white;
+    border: 1px solid #E4E4E4;
+
+}
+
+#header {
+
+    height: 15%;
+
+    background: #F8E71C;
+    border: 0px solid #E4E4E4;
+
+}
+
+#profileIcon {
+    height: 100%;
+    padding-right: 8px;
+}
+
+.col {
+    padding: 12px;
+}
+
+.icon {
+
+    padding: 0px;
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    position: absolute;               /* 2 */
+    top: 50%;                         /* 3 */
+    transform: translate(0, -50%)
+}
+
+#repoLabelTop {
+    font-size: 14;
+    text-align: center;
+}
+
+#repoLabelBottom {
+    font-size: 9;
+    text-align: center;
+}
+
+.tableRow {
+
+    margin: 8px;
+    padding: 4px;
+
+    background:rgb(249,249,249);
+}
+
+#seeMoreOnGitHub {
+    color: rgb(217,217,216);
+}

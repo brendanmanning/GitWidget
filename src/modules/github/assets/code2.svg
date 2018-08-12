@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="65px" height="35px" viewBox="0 0 65 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon:Code</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-703.000000, -643.000000)" fill="#F8E71C">
+            <g id="Icon:Code" transform="translate(699.000000, 634.000000)">
+                <polygon id="Triangle" transform="translate(18.793006, 26.902174) rotate(270.000000) translate(-18.793006, -26.902174) " points="18.7930056 12.2012727 35.8816132 41.6030751 28.3634851 41.6030751 18.7930056 22.6927555 7.87146442 41.6030751 1.70439798 41.6030751"></polygon>
+                <polygon id="Triangle" transform="translate(55.020286, 26.902174) scale(-1, 1) rotate(270.000000) translate(-55.020286, -26.902174) " points="55.0202856 13.6958379 72.1088932 40.1085099 64.5907651 40.1085099 55.0202856 23.1207055 44.0987444 40.1085099 37.931678 40.1085099"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

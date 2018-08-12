@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="45px" viewBox="0 0 30 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon:Repo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-567.000000, -348.000000)">
+            <g id="Icon:Repo" transform="translate(567.000000, 348.000000)">
+                <path d="M3.99999999,-4.9645651e-09 L25.8172085,-6.44876718e-10 C28.0263475,-2.07479731e-10 29.8172085,1.790861 29.8172085,4 C29.8172085,4.05956198 29.8158781,4.11911653 29.8132184,4.1786191 L28.3150157,37.6959356 C28.2170151,39.8883746 26.3708052,41.5924253 24.1775498,41.5148145 L3.85854398,40.7958034 C1.70580569,40.7196263 -3.63167205e-10,38.9523911 -9.48683171e-10,36.7983054 L-1.17430437e-08,3.99999999 C-1.23435241e-08,1.79086099 1.79086099,-6.24332825e-09 3.99999999,-6.84380875e-09 Z" id="Rectangle-3" fill="#D8D8D8"></path>
+                <path d="M0.5,27.3181818 L8.32352941,27.3181818 L8.32352941,0.5 L4,0.5 C2.06700338,0.5 0.5,2.06700338 0.5,4 L0.5,27.3181818 Z" id="Rectangle-3-Copy" stroke="#979797" stroke-width="1" fill="#C1C1C1"></path>
+                <ellipse id="Oval" fill="#C1C1C1" cx="12.7941176" cy="6.95454545" rx="2.20588235" ry="2.04545455"></ellipse>
+                <ellipse id="Oval" fill="#C1C1C1" cx="12.7941176" cy="14.3181818" rx="2.20588235" ry="2.04545455"></ellipse>
+                <ellipse id="Oval" fill="#C1C1C1" cx="12.7941176" cy="22.5" rx="2.20588235" ry="2.04545455"></ellipse>
+                <polygon id="Rectangle-4" fill="#C1C1C1" points="10.5882353 36 19.4117647 36 19.4117647 45 15 42.9565581 10.5882353 45"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

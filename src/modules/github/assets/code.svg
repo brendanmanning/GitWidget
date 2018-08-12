@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="47px" height="34px" viewBox="0 0 47 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon:Code</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-746.000000, -354.000000)">
+            <g id="Icon:Code" transform="translate(745.000000, 354.000000)">
+                <g>
+                    <polygon id="Triangle" fill="#D8D8D8" transform="translate(8.725885, 16.792683) rotate(270.000000) translate(-8.725885, -16.792683) " points="8.72588489 9.34619713 23.3754675 24.2391687 17.0997075 24.2391687 8.72588489 13.4673176 -0.385854954 24.2391687 -5.92369772 24.2391687"></polygon>
+                    <polygon id="Rectangle-5" fill="#979797" transform="translate(24.696778, 16.844372) rotate(7.000000) translate(-24.696778, -16.844372) " points="23.0154057 0.051689057 26.3781508 0.051689057 26.0101902 17.6999642 26.3781508 33.6370549 23.0154057 33.6370549 23.4000378 17.7311321"></polygon>
+                    <polygon id="Triangle" fill="#D8D8D8" transform="translate(40.333328, 16.790630) scale(-1, 1) rotate(270.000000) translate(-40.333328, -16.790630) " points="40.3333275 9.34414449 54.9829102 24.2371161 48.7071502 24.2371161 40.3333275 13.4652649 31.2215877 24.2371161 25.6837449 24.2371161"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

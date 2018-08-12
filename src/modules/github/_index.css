@@ -1,0 +1,51 @@
+body {
+
+    margin: 0px;
+    font-family: 'Lato', sans-serif;
+
+}
+
+#container {
+
+    background: #F9F9F9;
+    border: 1px solid #E4E4E4;
+    border-radius: 6px;
+
+}
+
+#header {
+
+    height: 18%;
+
+    background: #F3F3F3;
+    border: 1px solid #E4E4E4;
+    border-radius: 7px 7px 0 0;
+
+}
+
+.col {
+    padding: 12px;
+}
+
+#repoIcon {
+
+    padding: 0px;
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    position: absolute;               /* 2 */
+   top: 50%;                         /* 3 */
+   transform: translate(0, -50%)
+}
+
+#repoLabelTop {
+    font-size: 14;
+    text-align: center;
+}
+
+#repoLabelBottom {
+    font-size: 9;
+    text-align: center;
+}

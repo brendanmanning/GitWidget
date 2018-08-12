@@ -1,0 +1,3 @@
+<?php
+    define("GITHUB_BEARER", "YOUR GITHUB PERSONAL ACCESS TOKEN HERE");
+?>

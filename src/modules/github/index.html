@@ -1,0 +1,72 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/css/bootstrap.min.css" integrity="sha384-Smlep5jCw/wG7hdkwQ/Z5nLIefveQRIY9nfy6xoR1uRYBtpZgI6339F5dgvm/e9B" crossorigin="anonymous">
+        <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+        <link rel="stylesheet" href="index.css" />
+    </head>
+    <body>
+        <div id="loading">
+            <div class="loader"></div>
+        </div>
+        <div id="container" style="display: none;">
+            <div id="header">
+                <img id="profileIcon" src=""/>
+                <span>github.com/<strong id="githubUsername"></strong></span>
+            </div>
+            <div id="stats">
+                <div class="container">
+                    <div class="row">
+                        <div id="repos" class="col">
+                            <div class="container">
+                                <div class="row" style="padding: 8px">
+                                    <div class="col-4" style="position: relative">
+                                        <img id="repoIcon" class="icon" src="assets/repo2.svg"/>
+                                    </div>
+                                    <div class="col-8">
+                                        <div class="container">
+                                            <div id="reposLabelTop" class="row" >
+                                                <span><strong id="publicReposCount"></strong> Public Repos</span>
+                                            </div>
+                                            <div id="repoLabelBottom" class="row">
+                                                <span><span id="privateReposCount"></span> Private Repos</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="languages" class="col">
+                            <div class="container">
+                                <div class="row" style="padding: 8px">
+                                    <div class="col-4" style="position: relative">
+                                        <img id="codeIcon" class="icon" src="assets/code2.svg"/>
+                                    </div>
+                                    <div class="col-8">
+                                        <div class="container">
+                                            <div id="reposLabelTop" class="row" >
+                                                <span><strong id="languagesCount"></strong> Languages</span>
+                                            </div>
+                                            <div id="repoLabelBottom" class="row">
+                                                <span id="languagesLabel"></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="projects">
+                <div id="projectsVisible">
+                </div>
+            </div>
+            <div id="seeMore">
+                <center>
+                        <a id="seeMoreOnGitHub" href="https://github.com/">See more</a>
+                </center>
+            </div>
+        </div>
+        <script type="text/javascript" src="config.js"></script>
+        <script type="text/javascript" src="index.js"></script>
+    </body>
+</html>
